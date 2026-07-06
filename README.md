@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Founder-minded builder shipping AI-native tools, one hackathon at a time.</b><br>
-  CS @ University of Georgia · <a href="https://devdogs.uga.edu">DevDogs</a> · always building something.
+  CS @ Georgia Tech · Atlanta, GA · always building something.
 </p>
 
 ---
