@@ -1,8 +1,8 @@
 <h1 align="center">Reeyan Khimani</h1>
 
 <p align="center">
-  Founding Engineer @ <a href="https://closercoach.ai">CloserCoach.ai</a><br>
-  CE @ Georgia Tech · Atlanta, GA
+  Founding Engineer @ <a href="https://closercoach.ai">CloserCoach.ai</a> · Intern @ AWS<br>
+  Resident (S2) @ GT HackerHouse · CE @ Georgia Tech · Atlanta, GA
 </p>
 
 <p align="center">
