@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Building things people use.
+  <i>“Make something people want.”</i>
 </p>
 
 <p align="center">
@@ -69,4 +69,21 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+<br>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reeyank&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=6E56CF&icon_color=6E56CF&text_color=808080&bg_color=00000000" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeyank&layout=compact&hide_border=true&title_color=6E56CF&text_color=808080&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reeyank&hide_border=true&background=00000000&stroke=808080&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reeyank&hide_border=true&bg_color=00000000&color=808080&line=6E56CF&point=6E56CF&area=true&area_color=6E56CF" alt="activity graph" />
 </p>
