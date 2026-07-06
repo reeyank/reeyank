@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Founder-minded builder shipping AI-native tools, one hackathon at a time.</b><br>
-  CS @ Georgia Tech · Atlanta, GA · always building something.
+  CE @ Georgia Tech · Atlanta, GA · always building something.
 </p>
 
 ---
