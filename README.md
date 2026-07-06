@@ -16,6 +16,16 @@
 
 <br>
 
+## 👋 About Me
+
+Hey, I'm Reeyan — currently a **Founding Engineer at [CloserCoach.ai](https://closercoach.ai)**, an AI-powered sales coaching & roleplay platform, and an **Intern at AWS** on the Dedicated Cloud team working on AWS services.
+
+- 🎓 CE student at **Georgia Tech**, with experience shipping full-stack mobile and web products end-to-end
+- 📱 Built and launched multiple iOS apps — including **Spendify** — with a focus on AI-native products and early-stage SaaS
+- 🏆 Operations member at **HackGT**, one of the largest collegiate hackathons in the US
+
+<br>
+
 <h3 align="center">🤖 AI / ML</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
